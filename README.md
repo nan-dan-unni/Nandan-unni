@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nan-dan-unni&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nan-dan-unni&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nan-dan-unni?theme=tokyonight&cardType=github&preferLogin=false" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nan-dan-unni&theme=tokyonight" />
 </p>
 
 ---
